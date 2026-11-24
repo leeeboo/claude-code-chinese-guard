@@ -1,6 +1,6 @@
 {
   "name": "chinese-guard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude Code 的中文回复守卫。最终说明明显偏英文时，请 Claude 用中文重写一次。",
   "author": { "name": "leeeboo" },
   "repository": "https://github.com/leeeboo/claude-code-chinese-guard",
