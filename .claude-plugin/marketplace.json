@@ -1,0 +1,11 @@
+{
+  "name": "leeeboo-chinese-guard",
+  "owner": { "name": "leeeboo" },
+  "description": "Claude Code 中文回复守卫",
+  "plugins": [
+    {
+      "name": "chinese-guard",
+      "source": "./"
+    }
+  ]
+}
